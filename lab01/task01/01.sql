@@ -1,3 +1,2 @@
 USE AdventureWorksLT2019;
-SELECT *
-FROM SalesLT.Customer;
+SELECT * FROM SalesLT.Customer;
